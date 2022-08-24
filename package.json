@@ -1,0 +1,19 @@
+{
+	"name": "parsing",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^5.0.1",
+		"cheerio": "^1.0.0-rc.12",
+		"puppeteer": "^16.2.0",
+		"puppeteer-extra": "^3.3.4",
+		"puppeteer-extra-plugin-stealth": "^2.11.1"
+	}
+}
